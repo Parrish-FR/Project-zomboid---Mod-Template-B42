@@ -1,0 +1,6 @@
+version=1
+id=3388932410
+title=ModTemplateB42
+description=Template for B42 by Parrish
+tags=Build 42
+visibility=public
